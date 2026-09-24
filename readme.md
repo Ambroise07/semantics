@@ -2,7 +2,8 @@
 
 Semantics is a character-level text generator designed to synthesize sentences based on a training dataset of words. The generated sequences learn the underlying statistical patterns of the input data to produce text that resembles the original dataset.
 
-This is my very first AI project, built after watching the amazing YouTube video series by Andrej Karpathy.
+This is my very first AI project, built after watching the amazing YouTube video  by Andrej Karpathy.
+links: https://www.youtube.com/watch?v=TCH_1BHY58I
 
 ---
 
